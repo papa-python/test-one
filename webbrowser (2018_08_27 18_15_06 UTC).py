@@ -1,3 +1,3 @@
 import webbrowser
 
-webbrowser.get("firefox").open("http://www.bin
+webbrowser.get("firefox").open("http://www.google.com")
